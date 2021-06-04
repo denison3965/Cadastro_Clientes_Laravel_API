@@ -1,3 +1,12 @@
+# Cadastro de produtos com Laravel
+
+   Cadastro de Produtos e categorias com Laravel framework usando API com migrations e bootstrap e Jquery para o consumo dessa API
+
+   ![Preview-Screens](https://github.com/denison3965/Cadastro_de_Produtos_Laravel/blob/main/images/img1.png)
+   ![Preview-Screens](https://github.com/denison3965/Cadastro_de_Produtos_Laravel/blob/main/images/img2.png)
+   ![Preview-Screens](https://github.com/denison3965/Cadastro_de_Produtos_Laravel/blob/main/images/img3.png)
+   ![Preview-Screens](https://github.com/denison3965/Cadastro_de_Produtos_Laravel/blob/main/images/img4.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
